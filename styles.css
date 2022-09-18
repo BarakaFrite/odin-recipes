@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    background-color: pink;
+    font-size: 22px;
+}
+
+.description {
+    font-weight: bold;
+}
+
+.unorder {
+    color: blue;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
